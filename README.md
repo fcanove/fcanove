@@ -15,45 +15,23 @@ Diseño soluciones que conectan sistemas, reducen complejidad y permiten escalar
 
 ## Mi enfoque de arquitectura empresarial
 
-### 1. La arquitectura debe habilitar el negocio
-Si no acelera entregas, reduce riesgos o mejora costos, no está cumpliendo su propósito.
-
-### 2. Preferir simplicidad sobre perfección
-Las soluciones simples suelen ser más resilientes y sostenibles.
-
-### 3. Integrar antes que reemplazar
-La modernización efectiva suele ser evolutiva, no disruptiva.
-
-### 4. Diseñar para el cambio
-Los sistemas cambian; la arquitectura debe anticiparlo.
-
-### 5. Desacoplar donde genere valor
-Menos dependencias significa mayor velocidad y menor riesgo.
-
-### 6. Pensar en operación desde el día uno
-Observabilidad, monitoreo y resiliencia no son opcionales.
+![Negocio primero](https://img.shields.io/badge/Negocio%20Primero-455A64?style=for-the-badge)
+![Simplicidad](https://img.shields.io/badge/Simplicidad-455A64?style=for-the-badge)
+![Evolución](https://img.shields.io/badge/Evolución%20Progresiva-455A64?style=for-the-badge)
+![Diseñar para el cambio](https://img.shields.io/badge/Diseñar%20para%20el%20cambio-455A64?style=for-the-badge)
+![Desacoplamiento](https://img.shields.io/badge/Desacoplamiento-455A64?style=for-the-badge)
+![Operabilidad](https://img.shields.io/badge/Operabilidad-455A64?style=for-the-badge)
 
 ---
 
 ## Cómo trabajo en proyectos de arquitectura
 
-### 1. Entender el problema real
-Objetivos de negocio, restricciones y riesgos primero; tecnología después.
-
-### 2. Evaluar el estado actual
-Arquitectura, integraciones, dependencias y puntos críticos.
-
-### 3. Diseñar una arquitectura pragmática
-Soluciones evolutivas, operables y alineadas al contexto.
-
-### 4. Definir un roadmap realista
-La evolución ocurre por etapas ejecutables.
-
-### 5. Acompañar la implementación
-La arquitectura no termina en el diseño.
-
-### 6. Medir y ajustar
-Toda arquitectura mejora con datos y aprendizaje continuo.
+![Problema](https://img.shields.io/badge/Problema-455A64?style=for-the-badge)
+![Diagnóstico](https://img.shields.io/badge/Diagnóstico-455A64?style=for-the-badge)
+![Diseño](https://img.shields.io/badge/Diseño-455A64?style=for-the-badge)
+![Roadmap](https://img.shields.io/badge/Roadmap-455A64?style=for-the-badge)
+![Implementación](https://img.shields.io/badge/Implementación-455A64?style=for-the-badge)
+![Mejora Continua](https://img.shields.io/badge/Mejora%20Continua-455A64?style=for-the-badge)
 
 ---
 
@@ -89,6 +67,10 @@ Toda arquitectura mejora con datos y aprendizaje continuo.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/fcanove?cardType=github&theme=blueberry&fontFamily=Akatab&preferLogin=true)](https://git.io/awesome-stats-card)
 
+
 ## Contacto
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/froilan-cano-vera/)
+[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:froilan.cano@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fcanove)
+
